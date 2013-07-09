@@ -1,4 +1,5 @@
 Robocop: Automatic Detection, Alert, and Response System using a Raspberry Pi and a Sony PS3 Eyetoy Camera
+ 
  Team Members: Chaitanya Varanasi, Salem Karani, Sohail Shaikh, Akash Motani,
 
  *Robocop was a project for PennApps Spring 2013 Hackathon.
