@@ -1,7 +1,11 @@
 Robocop: Automatic Detection, Alert, and Response System using a Raspberry Pi and a Sony PS3 Eyetoy Camera
+ Team Members: Chaitanya Varanasi, Salem Karani, Sohail Shaikh, Akash Motani,
+
+ *Robocop was a project for PennApps Spring 2013 Hackathon.
  
  *beta proof-of-concept test: detect if UPS box is deposited at door, if so then text the user 
   image and link to livestream, and play thank you audio for mailman
+  
  *hosted entirely on Raspberry Pi, fully independent and portable system/platform
 
 1. Webcam detects for motion. Once motion is detected, code uses algorithm to look for extremely specific shade of
